@@ -1,0 +1,47 @@
+﻿@model Fall2024_Assignment3_aeburton3.Models.ViewModels.MovieDetailsViewModel
+
+<h2>Movie Details</h2>
+
+<div>
+    <h3>@Model.Movie.Title</h3>
+    <p><strong>Genre:</strong> @Model.Movie.Genre</p>
+    <p><strong>Year of Release:</strong> @Model.Movie.YearOfRelease</p>
+    <p><strong>IMDB Link:</strong> <a href="@Model.Movie.IMDBLink">@Model.Movie.IMDBLink</a></p>
+    <p><strong>Poster:</strong> <img src="@Model.Movie.PosterUrl" alt="Poster" /></p>
+</div>
+
+<div>
+    <h4>Actors in this movie:</h4>
+    <ul>
+        @foreach (var actor in Model.Movie.MovieActors.Select(ma => ma.Actor))
+        {
+            <li>@actor.Name</li>
+        }
+    </ul>
+</div>
+
+<div>
+    <h4>Overall Sentiment Score:</h4>
+    <p>@Model.OverallSentiment (A score between -1 and 1)</p>
+</div>
+
+<div>
+    <h4>AI-Generated Reviews and Sentiments:</h4>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Review</th>
+                <th>Sentiment Score</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Reviews.Count; i++)
+            {
+                <tr>
+                    <td>@Model.Reviews[i]</td>
+                    <td>@Model.Sentiments[i]</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

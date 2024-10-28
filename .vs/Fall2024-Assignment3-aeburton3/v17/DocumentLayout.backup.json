@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|c:\\users\\ekate\\source\\repos\\fall2024-assignment3-aeburton3\\controllers\\movieapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|solutionrelative:controllers\\movieapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|c:\\users\\ekate\\source\\repos\\fall2024-assignment3-aeburton3\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|c:\\users\\ekate\\source\\repos\\fall2024-assignment3-aeburton3\\controllers\\actorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|solutionrelative:controllers\\actorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|c:\\users\\ekate\\source\\repos\\fall2024-assignment3-aeburton3\\views\\actors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|solutionrelative:views\\actors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|c:\\users\\ekate\\source\\repos\\fall2024-assignment3-aeburton3\\views\\actors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|solutionrelative:views\\actors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|c:\\users\\ekate\\source\\repos\\fall2024-assignment3-aeburton3\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|solutionrelative:views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|c:\\users\\ekate\\source\\repos\\fall2024-assignment3-aeburton3\\views\\actors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|solutionrelative:views\\actors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|c:\\users\\ekate\\source\\repos\\fall2024-assignment3-aeburton3\\views\\actors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|solutionrelative:views\\actors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|c:\\users\\ekate\\source\\repos\\fall2024-assignment3-aeburton3\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|solutionrelative:views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|c:\\users\\ekate\\source\\repos\\fall2024-assignment3-aeburton3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|c:\\users\\ekate\\source\\repos\\fall2024-assignment3-aeburton3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|c:\\users\\ekate\\source\\repos\\fall2024-assignment3-aeburton3\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|c:\\users\\ekate\\source\\repos\\fall2024-assignment3-aeburton3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|c:\\users\\ekate\\source\\repos\\fall2024-assignment3-aeburton3\\models\\generatereviewsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|solutionrelative:models\\generatereviewsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|c:\\users\\ekate\\source\\repos\\fall2024-assignment3-aeburton3\\models\\viewmodels\\moviedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|solutionrelative:models\\viewmodels\\moviedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|c:\\users\\ekate\\source\\repos\\fall2024-assignment3-aeburton3\\fall2024-assignment3-aeburton3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4AA4D36E-C710-4258-9123-5927586BA6A5}|Fall2024-Assignment3-aeburton3.csproj|solutionrelative:fall2024-assignment3-aeburton3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieApiController.cs",
+              "DocumentMoniker": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\Controllers\\MovieApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MovieApiController.cs",
+              "ToolTip": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\Controllers\\MovieApiController.cs",
+              "RelativeToolTip": "Controllers\\MovieApiController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:15:53.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ActorsController.cs",
+              "DocumentMoniker": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\Controllers\\ActorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ActorsController.cs",
+              "ToolTip": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\Controllers\\ActorsController.cs",
+              "RelativeToolTip": "Controllers\\ActorsController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:16:41.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\Views\\Actors\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Actors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\Views\\Actors\\Create.cshtml",
+              "RelativeToolTip": "Views\\Actors\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T18:16:33.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\Views\\Actors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Actors\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\Views\\Actors\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Actors\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T18:16:24.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\Views\\Actors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Actors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\Views\\Actors\\Index.cshtml",
+              "RelativeToolTip": "Views\\Actors\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T16:25:20.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAQwFcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:55:46.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\Views\\Actors\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Actors\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\Views\\Actors\\Details.cshtml",
+              "RelativeToolTip": "Views\\Actors\\Details.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T16:25:07.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T15:48:55.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T15:45:56.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\Views\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\Views\\Movies\\Details.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T13:57:58.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T15:50:56.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-28T16:19:22.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MovieDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\Models\\ViewModels\\MovieDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\MovieDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\Models\\ViewModels\\MovieDetailsViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\MovieDetailsViewModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:58:42.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GenerateReviewsRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\Models\\GenerateReviewsRequest.cs",
+              "RelativeDocumentMoniker": "Models\\GenerateReviewsRequest.cs",
+              "ToolTip": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\Models\\GenerateReviewsRequest.cs",
+              "RelativeToolTip": "Models\\GenerateReviewsRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T00:56:28.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:08:49.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Fall2024-Assignment3-aeburton3.csproj",
+              "DocumentMoniker": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\Fall2024-Assignment3-aeburton3.csproj",
+              "RelativeDocumentMoniker": "Fall2024-Assignment3-aeburton3.csproj",
+              "ToolTip": "C:\\Users\\ekate\\source\\repos\\Fall2024-Assignment3-aeburton3\\Fall2024-Assignment3-aeburton3.csproj",
+              "RelativeToolTip": "Fall2024-Assignment3-aeburton3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T18:00:18.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

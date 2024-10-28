@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "YourNamespace.Controllers.MovieApiController",
+    "Method": "GenerateReview",
+    "RelativePath": "api/MovieApi/generate-review/{movieTitle}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "movieTitle",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

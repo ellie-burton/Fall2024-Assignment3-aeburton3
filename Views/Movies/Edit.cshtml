@@ -1,0 +1,49 @@
+﻿@model Fall2024_Assignment3_aeburton3.Models.ViewModels.MovieFormViewModel
+
+<h2>Edit Movie</h2>
+
+<form asp-action="Edit" method="post">
+    <div class="form-group">
+        <label asp-for="Title"></label>
+        <input asp-for="Title" class="form-control" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Genre"></label>
+        <input asp-for="Genre" class="form-control" />
+        <span asp-validation-for="Genre" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="YearOfRelease"></label>
+        <input asp-for="YearOfRelease" class="form-control" />
+        <span asp-validation-for="YearOfRelease" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="IMDBLink"></label>
+        <input asp-for="IMDBLink" class="form-control" />
+        <span asp-validation-for="IMDBLink" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="PosterUrl"></label>
+        <input asp-for="PosterUrl" class="form-control" />
+        <span asp-validation-for="PosterUrl" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="SelectedActorIds">Actors</label>
+        <select id="SelectedActorIds" name="SelectedActorIds" multiple class="form-control">
+            @foreach (var actor in Model.AvailableActors)
+            {
+                <option value="@actor.Id" selected="@(Model.SelectedActorIds.Contains(actor.Id) ? "selected" : null)">
+                    @actor.Name
+                </option>
+            }
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
